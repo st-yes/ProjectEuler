@@ -1,5 +1,5 @@
 # ProjectEuler
-My solutions to some of Project Euler's problem
+My solutions to some of Project Euler's problem (Ongoing Project)
 
 ### Problem 1:	[Multiples of 3 or 5](https://projecteuler.net/problem=1)
 **key concept:** if A is multiple of B, B is a divisor of A (A/B have no remainder)
