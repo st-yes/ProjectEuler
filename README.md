@@ -7,4 +7,6 @@ My solutions to some of Project Euler's problem (Ongoing Project)
 ### Problem 2: [Even Fibonacci Numbers](https://projecteuler.net/problem=2)
 **key concept:** [the Fibonacci sequence](https://en.wikipedia.org/wiki/Fibonacci_sequence)
 
+### Problem 3 [Largest Prime Factor](https://projecteuler.net/problem=3)
+**key concept:** [Integer factorization](https://en.wikipedia.org/wiki/Integer_factorization)
 
