@@ -10,3 +10,5 @@ My solutions to some of Project Euler's problem (Ongoing Project)
 ### Problem 3 [Largest Prime Factor](https://projecteuler.net/problem=3)
 **key concept:** [Integer factorization](https://en.wikipedia.org/wiki/Integer_factorization)
 
+### Problem 4 [Largest Palindrome Product](https://projecteuler.net/problem=4)
+**key concept**: a _palindrome number_ is a number that reads the same forward and backward
