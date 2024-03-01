@@ -12,3 +12,14 @@ My solutions to some of Project Euler's problem (Ongoing Project)
 
 ### Problem 4 [Largest Palindrome Product](https://projecteuler.net/problem=4)
 **key concept**: a _palindrome number_ is a number that reads the same forward and backward
+
+### Problem 5 [Smallest Multiple](https://projecteuler.net/problem=5)
+**key concept**: a is evenly divided by b <=> a leaves no remainder when divided by b
+
+### Problem 6: [Sum Square Difference](https://projecteuler.net/problem=6)
+
+### Problem 7: [10001st Prime](https://projecteuler.net/problem=7)
+**key concept**: [Prime numbers](https://en.wikipedia.org/wiki/Prime_number)
+
+### Problem 8:[Largest Product in a Series]
+**key concept**: [sliding window technique](https://www.geeksforgeeks.org/window-sliding-technique/)
