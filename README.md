@@ -21,5 +21,11 @@ My solutions to some of Project Euler's problem (Ongoing Project)
 ### Problem 7: [10001st Prime](https://projecteuler.net/problem=7)
 **key concept**: [Prime numbers](https://en.wikipedia.org/wiki/Prime_number)
 
-### Problem 8:[Largest Product in a Series]
+### Problem 8:[Largest Product in a Series](https://projecteuler.net/problem=8)
 **key concept**: [sliding window technique](https://www.geeksforgeeks.org/window-sliding-technique/)
+
+### Problem 9: [Special Pythagorean Triplet](https://projecteuler.net/problem=9)
+**key concept**:
+Euclid's formula for generating [pythagorean triples](https://en.wikipedia.org/wiki/Pythagorean_triple), which states that:
+given an arbitrary pair of integers m and n with m > n > 0.
+a = m²-n², b = 2mn, c = m² + n²
