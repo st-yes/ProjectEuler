@@ -29,3 +29,6 @@ My solutions to some of Project Euler's problem (Ongoing Project)
 Euclid's formula for generating [pythagorean triples](https://en.wikipedia.org/wiki/Pythagorean_triple), which states that:
 given an arbitrary pair of integers m and n with m > n > 0.
 a = m²-n², b = 2mn, c = m² + n²
+
+### Problem 10: [Summation of Primes](https://projecteuler.net/problem=10)
+
