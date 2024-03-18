@@ -32,3 +32,9 @@ a = m²-n², b = 2mn, c = m² + n²
 
 ### Problem 10: [Summation of Primes](https://projecteuler.net/problem=10)
 
+### Problem 12: [Highly Divisible Triangular Number](https://projecteuler.net/problem=12)
+**key concepts**: 
+[Triangular number](https://en.wikipedia.org/wiki/Triangular_number)  
+Formula to find a triangular number Tn: Tn = (n(n + 1))/ 2
+
+
