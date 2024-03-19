@@ -38,3 +38,4 @@ a = m²-n², b = 2mn, c = m² + n²
 Formula to find a triangular number Tn: Tn = (n(n + 1))/ 2
 
 
+### Problem 13: [Large Sum](https://projecteuler.net/problem=13)
